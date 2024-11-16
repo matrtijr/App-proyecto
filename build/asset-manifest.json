@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c57b0f7.css",
+    "main.js": "/static/js/main.ab0d4b5b.js",
+    "static/js/453.d71688a5.chunk.js": "/static/js/453.d71688a5.chunk.js",
+    "static/media/leche.png": "/static/media/leche.e24c1fb653621c7d7146.png",
+    "static/media/huevo.png": "/static/media/huevo.868f3c93f6a5928c5fbf.png",
+    "index.html": "/index.html",
+    "main.5c57b0f7.css.map": "/static/css/main.5c57b0f7.css.map",
+    "main.ab0d4b5b.js.map": "/static/js/main.ab0d4b5b.js.map",
+    "453.d71688a5.chunk.js.map": "/static/js/453.d71688a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c57b0f7.css",
+    "static/js/main.ab0d4b5b.js"
+  ]
+}
